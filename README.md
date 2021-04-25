@@ -1,6 +1,10 @@
 # rgb-keyboard
 Only Css Rgb Keyboard
 
+Sadece css kullanarak neler yapabildiğimi görmek için yaptığım proje.
+
+
+
 MIT License
 
 Copyright (c) 2021 MutanPlex
