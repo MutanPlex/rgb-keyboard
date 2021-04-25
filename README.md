@@ -1,7 +1,10 @@
 # rgb-keyboard
 Only Css Rgb Keyboard
 
-Sadece css kullanarak neler yapabildiğimi görmek için yaptığım proje.
+
+The project I made just to see what I can do using css. Here you can see what kind of a project it is. If it does not appear completely on your screen, you can fit your screen exactly with the ctrl + scroll key.
+
+https://mutanplex.github.io/rgb-keyboard/
 
 
 
